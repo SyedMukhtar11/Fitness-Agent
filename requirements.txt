@@ -1,0 +1,14 @@
+# Core Framework
+vision-agents
+
+# AI Models & Processing
+ultralytics
+google-generativeai
+
+# Real-time Video & Streaming
+getstream
+
+# Environment & Utilities
+python-dotenv
+asyncio
+opencv-python
